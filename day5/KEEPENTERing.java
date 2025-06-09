@@ -22,6 +22,7 @@ public class KEEPENTERing {
             System.out.println(num);
 
         } while (true);
+        sc.close();
 
     }
 }

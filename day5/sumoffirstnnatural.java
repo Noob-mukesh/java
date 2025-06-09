@@ -12,6 +12,7 @@ public class sumoffirstnnatural {
 
         }
         System.out.println(sum);
+        sc.close();
 
     }
 

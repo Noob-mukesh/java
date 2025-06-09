@@ -10,6 +10,7 @@ public class sumof2num {
         System.out.print("sum of both number is ");
         int sum = num1 + num2;
         System.out.print(sum);
+        sc.close();
 
     }
 }

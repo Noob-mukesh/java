@@ -20,5 +20,6 @@ public class inputin {
         // nextbyte nextfloat nextboolean nextshort nextlong
         Long num2 = sc.nextLong();
         System.out.println(num2);
+        sc.close();
     }
 }

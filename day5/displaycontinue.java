@@ -13,6 +13,7 @@ public class displaycontinue {
             System.out.println("number was " + num);
 
         } while (true);
+
     }
 
 }

@@ -34,6 +34,7 @@ public class THIRDQU {
                 System.out.println("invaild day no input within 1-7");
                 break;
         }
+        sc.close();
     }
 
 }

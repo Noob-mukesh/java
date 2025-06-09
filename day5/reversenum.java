@@ -16,5 +16,6 @@ public class reversenum {
 
         }
         System.out.println(reverse);
+        sc.close();
     }
 }

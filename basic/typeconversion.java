@@ -14,6 +14,7 @@ public class typeconversion {
         // float a = 5.0f;
         // int b = a;
         // System.out.println(b);
+        sc.close();
 
     }
 }

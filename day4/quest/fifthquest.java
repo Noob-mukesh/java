@@ -28,6 +28,7 @@ public class fifthquest {
         } else {
             System.out.println("not a leap year");
         }
+        sc.close();
 
     }
 

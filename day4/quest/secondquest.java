@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class secondquest {
     public static void main(String[] args) {
@@ -15,5 +14,6 @@ public class secondquest {
             System.out.println("You don't have fever.");
 
         }
+
     }
 }

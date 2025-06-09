@@ -27,6 +27,7 @@ public class questsol12 {
         float area = squar * squar;
         System.out.print("area of square is ");
         System.out.println(area);
+        sc.close();
 
     }
 }

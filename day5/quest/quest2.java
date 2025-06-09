@@ -9,7 +9,7 @@ public class quest2 {
         int even = 0;
         int odd = 0;
 
-        for (int i = 0; i < 100; i = i + 1) {
+        for (int i = 0; i < num; i = i + 1) {
 
             if (i % 2 == 0) {
                 even += i;
@@ -22,6 +22,7 @@ public class quest2 {
 
         }
         System.out.print(odd + " " + even);
+        sc.close();
 
     }
 }

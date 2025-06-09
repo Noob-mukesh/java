@@ -17,6 +17,7 @@ public class fstquest {
             System.out.println("num is positive");
 
         }
+        sc.close();
 
     }
 }

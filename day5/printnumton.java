@@ -11,6 +11,7 @@ public class printnumton {
             start++;
 
         }
+        sc.close();
 
     }
 }
